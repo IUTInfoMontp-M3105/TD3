@@ -13,13 +13,13 @@ https://classroom.github.com/a/DlbshUg5
 
 ### Sujet : Factory, Abstract Factory and Singleton Patterns
 
-***Exercice 1:***
+##Exercice 1:
 On désire créer des identifiants uniques dans une application. 
 Pour cela, une solution simple consiste à utiliser une étiquette "ID_" suivi d'un compteur qui augmente strictement à chaque création.
 
 **Question 1 :** Créer un générateur qui permet d'avoir une chaîne de caractères différente à chaque appel en suivant la méthode ci-dessus. Faire de ce générateur un *singleton* de façon à garantir l'unicité du générateur, et donc des identifiants créés.
 
-***Exercice 1:***
+##Exercice 2:
 
 
 
